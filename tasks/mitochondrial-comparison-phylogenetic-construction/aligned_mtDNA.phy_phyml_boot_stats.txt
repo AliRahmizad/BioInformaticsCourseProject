@@ -1,0 +1,12 @@
+. Sequence file : [aligned_mtDNA.phy]
+
+. Model of nucleotides substitution : HKY85
+
+. Initial tree : [BioNJ]
+
+
+. Data	Nb of 	Likelihood	Discrete   	Number of 	Gamma shape	Proportion of	Transition/ 	Nucleotides frequencies               	
+  set	taxa	loglk     	gamma model	categories	parameter  	invariant    	transversion	f(A)      f(C)      f(G)      f(T)    	
+
+  #1	33   	-340903.66885	Yes        	4        	0.530    	0.000    	3.885     	 0.32664   0.27077   0.13517   0.26742	
+
