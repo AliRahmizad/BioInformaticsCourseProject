@@ -1,0 +1,11 @@
+taxo_id,specie,genbank_common_name,accession_number,mtDNA
+8932,Columba livia,mitochondrion Columba livia (rock pigeon),NC_013978,https://www.ncbi.nlm.nih.gov/nucleotide/NC_013978.1
+48849,Passer domesticus,mitochondrion Passer domesticus (House sparrow),CM004555,https://www.ncbi.nlm.nih.gov/nucleotide/CM004555.1
+72873,Tachycineta bicolor,mitochondrion Tachycineta bicolor (Tree swallow),NC_020596,https://www.ncbi.nlm.nih.gov/nucleotide/NC_020596.1
+55661,Cuculus canorus,mitochondrion Cuculus canorus (common cuckoo),CM030679,https://www.ncbi.nlm.nih.gov/nucleotide/CM030679.1
+9683,Felis silvestris,mitochondrion Felis silvestris (wild cat),NC_028310,https://www.ncbi.nlm.nih.gov/nucleotide/NC_028310.1
+29073,Ursus maritimus,mitochondrion Ursus maritimus (polar bear),GU573490,https://www.ncbi.nlm.nih.gov/nucleotide/GU573490.1
+28610,Rhagoletis pomonella,mitochondrion Rhagoletis pomonella (apple maggot),MN443938,https://www.ncbi.nlm.nih.gov/nucleotide/MN443938.1
+9771,Balaenoptera musculus,mitochondrion Balaenoptera musculus (blue whale),CM018075,https://www.ncbi.nlm.nih.gov/nucleotide/CM018075.1
+9733,Orcinus orca,mitochondrion Orcinus orca (killer whale),GU187211,https://www.ncbi.nlm.nih.gov/nucleotide/GU187211.2
+30640,Sciurus carolinensis,mitochondrion Sciurus carolinensis (gray squirrel),NC_050012,https://www.ncbi.nlm.nih.gov/nucleotide/NC_050012.1
